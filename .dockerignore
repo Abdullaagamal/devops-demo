@@ -1,2 +1,13 @@
 node_modules
 npm-debug.log
+.git
+.github
+k8s
+devops-chart
+Dockerfile
+.dockerignore
+.gitignore
+README.md
+EXPLAINED.md
+logs
+*.log
